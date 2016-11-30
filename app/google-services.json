@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "730516942683",
+    "firebase_url": "https://vein-1a62a.firebaseio.com",
+    "project_id": "vein-1a62a",
+    "storage_bucket": "vein-1a62a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730516942683:android:a0fc40cd3a65c016",
+        "android_client_info": {
+          "package_name": "com.alchemya.lvanstaden.vein_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730516942683-mneg5gj1emdl6u65o25v1qhtkfgcaiae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alchemya.lvanstaden.vein_client",
+            "certificate_hash": "51FFFAE5144C137B87BA4866FC62929EEF7DE70E"
+          }
+        },
+        {
+          "client_id": "730516942683-2vke0ku2ebm9q893oer997si9ki12uc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzlImF9XUjp6WJ20WPd_cIoAIvIrtfDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730516942683-2vke0ku2ebm9q893oer997si9ki12uc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
